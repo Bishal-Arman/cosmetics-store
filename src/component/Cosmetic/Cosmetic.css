@@ -1,0 +1,20 @@
+.cosmetic {
+    border: 2px solid rgb(93, 93, 54);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(170, 230, 230);
+    text-align: center;
+}
+
+.btn-remove {
+    margin-left: 5px;
+}
+
+.cosmetic button {
+    border: 1px solid salmon;
+    background-color: coral;
+    border-radius: 15px;
+    padding: 5px 8px;
+    color: azure;
+}

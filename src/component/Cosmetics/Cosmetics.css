@@ -1,0 +1,11 @@
+.cosmetics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+
+}
+
+.cosmetics-headlines {
+    text-align: center;
+    color: blue;
+}

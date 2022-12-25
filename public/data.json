@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Powder",
+        "price": 100
+    },
+    {
+        "id": 2,
+        "name": "Snow",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "name": "Makup box",
+        "price": 1000
+    },
+    {
+        "id": 4,
+        "name": "Nail palis",
+        "price": 80
+    },
+    {
+        "id": 5,
+        "name": "Pencil",
+        "price": 50
+    },
+    {
+        "id": 6,
+        "name": "BB Cream",
+        "price": 250
+    },
+    {
+        "id": 7,
+        "name": "Foundation",
+        "price": 1050
+    },
+    {
+        "id": 8,
+        "name": "Kajal",
+        "price": 150
+    },
+    {
+        "id": 9,
+        "name": "Eyeshadow",
+        "price": 50
+    },
+    {
+        "id": 10,
+        "name": "Eyeliner",
+        "price": 550
+    },
+    {
+        "id": 11,
+        "name": "Blush",
+        "price": 50
+    },
+    {
+        "id": 12,
+        "name": "Lipstick",
+        "price": 130
+    }
+]

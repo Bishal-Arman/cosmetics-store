@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# This is our COSMETICS STORE
+Please visit this site [Banladeshoppers](https://www.banglashoppers.com/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
